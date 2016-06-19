@@ -29,4 +29,4 @@ Dependencies
 ------------
 
 run\_analysis.R file will help you to install the dependencies
-automatically. It depends on reshape2 and data.table.
+automatically. It depends on dplyr and data.table.
